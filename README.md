@@ -8,3 +8,4 @@ When their current status is inadequate for a safe trip, they are warned by a be
 The steering wheel would display alerts that were linked to the vehicle's software components. Depending on the driver's condition, neighbouring rest spots or brightly illuminated sites would be recommended, which a GPS tracking device may assist them in reaching. We hope to make a difference and offer a realistic answer to the problem of distracted driving, which is all too common.
 
 <h2>Outputs</h2>
+<img src="assets/active.jpeg" width="300" height="300">
