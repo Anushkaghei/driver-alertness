@@ -13,7 +13,7 @@ The steering wheel would display alerts that were linked to the vehicle's softwa
 
 <h2>Demo</h2>
 A video demonstration of our solution: 
-"https://www.youtube.com/watch?v=gR9bU3RjHF8&ab_channel=AnanyaMahishi"
+[video demo]("https://www.youtube.com/watch?v=gR9bU3RjHF8&ab_channel=AnanyaMahishi")
 
 
 <h2>To download the dataset :</h2>
