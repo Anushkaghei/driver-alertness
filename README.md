@@ -12,7 +12,10 @@ The steering wheel would display alerts that were linked to the vehicle's softwa
 <img src="assets/active.jpeg" width="250" height="250" align="left" />   <img src="assets/sleeping.jpeg" width="250" height="250" align="centre" />
 
 <h2>Demo</h2>
-A video demonstration of our solution: <a href="https://www.youtube.com/watch?v=gR9bU3RjHF8&ab_channel=AnanyaMahishi" />
+A video demonstration of our solution: 
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=gR9bU3RjHF8&ab_channel=AnanyaMahishi">
+</iframe>
 
 <h2>To download the dataset :</h2>
 
