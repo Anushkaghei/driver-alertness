@@ -20,3 +20,9 @@ A video demonstration of our solution:
 <h2>To download the dataset :</h2>
 
 [shape_predictor_68_face_landmarks.dat](https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat?resource=download&select=shape_predictor_68_face_landmarks.dat)
+
+
+<h3>Contributors</h3>
+<li>Anushka Ghei</li>
+<li>Ananya Mahishi</li>
+<li>Aditi Prabhu A</li>
